@@ -1,3 +1,14 @@
 div{
     background-color: aquamarine;
+    /* margin: 5px solid tomato; */
+    border: 10px solid tomato;
+    border-radius: 20px 20px;
+    margin: 25px;
+    box-shadow: 10px 10px 10px turquoise;
+}
+.resort{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    border-color: blueviolet;
 }
